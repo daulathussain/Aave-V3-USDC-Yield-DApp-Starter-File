@@ -1,6 +1,6 @@
 # Aave V3 USDC Yield DApp
 
-![alt text](https://www.daulathussain.com/wp-content/uploads/2026/04/Build-Deploy-USDC-Yield-DApp-💰-Next.js-Node.js-TypeScript-Aave-V3-Yield-Strategy.jpg)
+![alt text](https://www.daulathussain.com/wp-content/uploads/2026/04/source-code-168.jpeg)
 
 - [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-usdc-yield-dapp-or-next.js-node.js-typescript-+-aave-v3-yield-strategy)
 
